@@ -43,15 +43,21 @@ Spectral entropy decreases during anesthesia and increases during recovery.
 
 #### Original vs Filtered EEG
 
-![Original vs Filtered EEG](figures/original_vs_filtered_eeg.png)
+#### Original vs Filtered EEG
+
+![Original vs Filtered EEG](figures/original_vs_filtered.png)
 
 #### Spectral Entropy Over Time
 
-![Spectral Entropy](figures/spectral_entropy_over_time.png)
+![Spectral Entropy](figures/spectral_entropy_overtime.png)
 
-#### Spectral Entropy vs BIS
+#### EEG Annotations
 
-![Spectral Entropy vs BIS](figures/spectral_entropy_vs_bis.png)
+![EEG Annotations](figures/eeg_annotations.png)
+
+#### Filter Frequency Response
+
+![Filter Frequency Response](figures/filter_freq_response.png)
 
 ---
 
